@@ -1,0 +1,45 @@
+.body{
+    background-color: aqua;
+    border:solid 20px;
+}
+.first-level{
+    margin-left: 450px;   
+
+}
+.second-level{
+    display:flex;
+    /* border-radius: 25px; */
+    /* flex-direction: column; */
+    margin:20px;
+    background-color: rgb(250, 255, 242);
+    margin-top: 20px;
+    margin-bottom:20px;
+
+
+
+    
+}
+.second-level #left-side <img {
+    margin-right: 200px;
+    border:solid 10px;
+    
+}
+.second-level #right-side{
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+
+.third-level{
+    display:flex;
+    /* border-radius: 25px; */
+    /* flex-direction: column; */
+    margin:20px;
+    background-color: rgb(243, 243, 252);
+    margin-bottom: 20px;
+    
+}
+.third-level #right-side{
+    margin-left: 500px;
+  
+
